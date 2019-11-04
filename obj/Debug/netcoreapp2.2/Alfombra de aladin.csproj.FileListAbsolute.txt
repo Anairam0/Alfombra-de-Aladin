@@ -1,0 +1,11 @@
+C:\Users\WZ442MH\source\repos\Alfombra de aladin\Alfombra de aladin\bin\Debug\netcoreapp2.2\Alfombra de aladin.deps.json
+C:\Users\WZ442MH\source\repos\Alfombra de aladin\Alfombra de aladin\bin\Debug\netcoreapp2.2\Alfombra de aladin.runtimeconfig.json
+C:\Users\WZ442MH\source\repos\Alfombra de aladin\Alfombra de aladin\bin\Debug\netcoreapp2.2\Alfombra de aladin.runtimeconfig.dev.json
+C:\Users\WZ442MH\source\repos\Alfombra de aladin\Alfombra de aladin\bin\Debug\netcoreapp2.2\Alfombra de aladin.dll
+C:\Users\WZ442MH\source\repos\Alfombra de aladin\Alfombra de aladin\bin\Debug\netcoreapp2.2\Alfombra de aladin.pdb
+C:\Users\WZ442MH\source\repos\Alfombra de aladin\Alfombra de aladin\obj\Debug\netcoreapp2.2\Alfombra de aladin.csprojAssemblyReference.cache
+C:\Users\WZ442MH\source\repos\Alfombra de aladin\Alfombra de aladin\obj\Debug\netcoreapp2.2\Alfombra de aladin.csproj.CoreCompileInputs.cache
+C:\Users\WZ442MH\source\repos\Alfombra de aladin\Alfombra de aladin\obj\Debug\netcoreapp2.2\Alfombra de aladin.AssemblyInfoInputs.cache
+C:\Users\WZ442MH\source\repos\Alfombra de aladin\Alfombra de aladin\obj\Debug\netcoreapp2.2\Alfombra de aladin.AssemblyInfo.cs
+C:\Users\WZ442MH\source\repos\Alfombra de aladin\Alfombra de aladin\obj\Debug\netcoreapp2.2\Alfombra de aladin.dll
+C:\Users\WZ442MH\source\repos\Alfombra de aladin\Alfombra de aladin\obj\Debug\netcoreapp2.2\Alfombra de aladin.pdb
